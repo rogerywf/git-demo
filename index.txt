@@ -1,4 +1,5 @@
 ﻿Hello Git World
 Line 2: 掌握了板块一的核心逻辑
 Line 3: 完美解决 Windows 编码大坑！
-Line 4: 这是在 main 分支硬顶上去的内容
+Line 4: 登录功能已完成，且包含了主分支的紧急修复。
+
